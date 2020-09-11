@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SampleDNSResolve": {
+      "commandName": "Project",
+      "commandLineArgs": "-i input.txt -s 8.8.8.8"
+    }
+  }
+}
